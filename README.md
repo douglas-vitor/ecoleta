@@ -1,2 +1,2 @@
 # ecoleta
-Projeto ECOLATE desenvolvido no evento Next Level Week
+Projeto ECOLETA desenvolvido no evento Next Level Week - 2020
