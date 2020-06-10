@@ -3,6 +3,6 @@
 
 ###### **Instrutor** : Mayk Brito
 ---
-Abaixo segue alguns prints de tela do projeto finalizado.
-![](captures_projects_finished/home.png)
-<img src="captures_projects_finished/home.png">
+Abaixo segue alguns prints de tela do projeto finalizado, você pode encontrar mais prints de tela no diretorio **captures_projects_finished/ **
+
+<img src="captures_projects_finished/home.png" width="100px" height="auto">
