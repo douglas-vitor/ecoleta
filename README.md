@@ -1,5 +1,5 @@
 # Ecoleta
-###### Projeto **ECOLETA** desenvolvido no evento **Next Level Week - 2020 pela Rocketseat** .
+###### Projeto **ECOLETA** desenvolvido no evento **Next Level Week - 2020 pela [Rocketseat](https://rocketseat.com.br/)** .
 
 ###### **Instrutor** : Mayk Brito
 ---
